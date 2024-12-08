@@ -72,6 +72,6 @@ This project focuses on predicting whether an online shopper will complete a pur
 
 ---
 
-##🙏 Acknowledgments
-Dataset from the UCI Machine Learning Repository.
-Libraries: Scikit-learn, NumPy, Matplotlib, Pandas
+## 🙏 Acknowledgments
+- Dataset from the UCI Machine Learning Repository.
+- Libraries: Scikit-learn, NumPy, Matplotlib, Pandas
