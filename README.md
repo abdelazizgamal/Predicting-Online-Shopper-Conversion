@@ -77,3 +77,8 @@ This project focuses on predicting whether an online shopper will complete a pur
    ```bash
    git clone https://github.com/YourUsername/Shopper-Conversion-Prediction.git
    cd Shopper-Conversion-Prediction
+2. Install the required Python libraries:
+     ```bash
+     pip install -r requirements.txt
+
+
