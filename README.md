@@ -51,10 +51,13 @@ This project focuses on predicting whether an online shopper will complete a pur
 
 ### Visualizations
 - **ROC Curve Comparison**:
-- ![ROC Curve Comparison](https://github.com/abdelazizgamal/Predicting-Online-Shopper-Conversion/blob/main/images/ROC%20curves.png).
-- **Confusion Matrices**: [Add your matrices here].
-- **Feature Importance (LR Coefficients)**: [Add your graph here].
-- **Box Plots**: Show distributions of numerical features.
+  ![ROC Curve Comparison](https://github.com/abdelazizgamal/Predicting-Online-Shopper-Conversion/blob/main/images/ROC%20curves.png)
+- **Confusion Matrices**:
+  ![Confusion Matrices](https://github.com/abdelazizgamal/Predicting-Online-Shopper-Conversion/blob/main/images/CMS.png)
+- **Feature Importance (LR Coefficients)**:
+  ![Feature Importance](https://github.com/abdelazizgamal/Predicting-Online-Shopper-Conversion/blob/main/images/COff.png)
+- **Box Plots**:
+  ![Box Plots](https://github.com/abdelazizgamal/Predicting-Online-Shopper-Conversion/blob/main/images/BOX.png)
 
 ---
 
