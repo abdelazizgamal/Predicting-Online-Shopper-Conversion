@@ -50,7 +50,8 @@ This project focuses on predicting whether an online shopper will complete a pur
 | AUC             | 0.89776                         | 0.8415                           |
 
 ### Visualizations
-- **ROC Curve Comparison**:![ROC Curve Comparison](https://github.com/abdelazizgamal/Predicting-Online-Shopper-Conversion/blob/main/images/ROC%20curves.png).
+- **ROC Curve Comparison**:
+- ![ROC Curve Comparison](https://github.com/abdelazizgamal/Predicting-Online-Shopper-Conversion/blob/main/images/ROC%20curves.png).
 - **Confusion Matrices**: [Add your matrices here].
 - **Feature Importance (LR Coefficients)**: [Add your graph here].
 - **Box Plots**: Show distributions of numerical features.
